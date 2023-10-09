@@ -1,0 +1,40 @@
+
+body {
+    background-color: #282a36;
+    color: #f8f8f2;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: auto 15%;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: left;
+    color: #ff79c6;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid #44475a;
+    border-collapse: collapse;
+    vertical-align: middle;
+}
+
+td:hover {
+    background-color: #44475a ;
+}
+
+th {
+    font-size: x-large;
+    text-align: left;
+    padding: 10px;
+    border: 2px solid #44475a;
+}
+
+td {
+    font-size: large;
+    padding: 10px;
+    border: 2px solid #44475a;
+}
